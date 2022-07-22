@@ -1,4 +1,4 @@
-http://assets.processon.com/chart_image/62d52aa00e3e746072770967.png
+[学习路线图](http://assets.processon.com/chart_image/62d52aa00e3e746072770967.png)
 
 # 前端学习路线综合
 
@@ -8,24 +8,21 @@ http://assets.processon.com/chart_image/62d52aa00e3e746072770967.png
 
 ### 超文本标记语言（html）
 
-在这里我推荐的是siki学院的siki老师出的b站免费视频：https://www.bilibili.com/video/BV1qt411U7Wn?p=1&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-这个视频上对html的解释是非常的细，很多常用的内容都有说到，该课程是html并非html5如果需要了解html5的请点击h5+css3
+在这里我推荐的是siki学院的siki老师出的b站免费视频：[siki学院的html学习视频](https://www.bilibili.com/video/BV1qt411U7Wn?p=1&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)这个视频上对html的解释是非常的细，很多常用的内容都有说到，该课程是html并非html5如果需要了解html5的请点击h5+css3
 
 ### css
 
-在这部分我推荐关于css的基础知识、盒子模型、定位布局、浮动布局都可以看这个免费提供的视频：https://www.bilibili.com/video/BV1zh41147u8?spm_id_from=333.999.0.0&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-对于css的flex布局可以看看黑马提供的这部分知识：https://www.bilibili.com/video/BV1BJ41197XE?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
+在这部分我推荐关于css的基础知识、盒子模型、定位布局、浮动布局都可以看这个免费提供的视频：[siki学院的css](https://www.bilibili.com/video/BV1zh41147u8?spm_id_from=333.999.0.0&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
+对于css的flex布局可以看看黑马提供的这部分知识：[黑马程序员flex布局](https://www.bilibili.com/video/BV1BJ41197XE?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
 
 ### html+css静态项目实战
 
-当小伙伴们学到这里的时候可以做一些静态网页啦！可以根据一些自己常用的网站仿照做一个，也可以根据一些视频教程。小伙伴们可以一起来看看这些视频跟着一起做。https://www.bilibili.com/video/BV1Yr4y1P7hS?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-当然，我相信很多小伙伴们都是对自己高要求的，所以这个项目集合里面不仅仅是一个单独的静态项目，还有不少，响应式开发、弹性布局等一些列前端常用的前端小项目技巧！
+当小伙伴们学到这里的时候可以做一些静态网页啦！可以根据一些自己常用的网站仿照做一个，也可以根据一些视频教程。小伙伴们可以一起来看看这些视频跟着一起做。[html+css静态项目实战](https://www.bilibili.com/video/BV1Yr4y1P7hS?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)当然，我相信很多小伙伴们都是对自己高要求的，所以这个项目集合里面不仅仅是一个单独的静态项目，还有不少，响应式开发、弹性布局等一些列前端常用的前端小项目技巧！
 我相信有的小伙伴可能已经不限于只想做PC端的项目，摩拳擦掌的想做移动端web页面了吧！不要急，等我们往下看！在这里我建议小伙伴们最好还是学一下h5+c3在做移动端web页面吧
 
 ### h5+c3
 
-h5+c3不建议小伙伴们多怎么怎么深入的了解，毕竟html和css我们在之前已经打过基础了，我相信小伙伴们前面学到非常熟悉了，在这里我对h5和c3的建议是了解即可，我推荐大家可以看一看黑马教程的b站免费视频：https://www.bilibili.com/video/BV14J4114768?p=274&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-直接从第274个视频开始看就好了。当然如果小伙伴们还想回顾一下知识也是可以从头开始看的。在这个视频的最后有一个h5+c3的项目实战，对于想做移动端web页面的小伙伴们可是非常感兴趣的项目。如果做的不过瘾，也可以来看看尚硅谷的《谷粒音乐》：https://www.bilibili.com/video/BV1hs411E7NC?p=27&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
+h5+c3不建议小伙伴们多怎么怎么深入的了解，毕竟html和css我们在之前已经打过基础了，我相信小伙伴们前面学到非常熟悉了，在这里我对h5和c3的建议是了解即可，我推荐大家可以看一看黑马教程的b站免费视频：[黑马程序员的h5+c3](https://www.bilibili.com/video/BV14J4114768?p=274&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)直接从第274个视频开始看就好了。当然如果小伙伴们还想回顾一下知识也是可以从头开始看的。在这个视频的最后有一个h5+c3的项目实战，对于想做移动端web页面的小伙伴们可是非常感兴趣的项目。如果做的不过瘾，也可以来看看尚硅谷的《谷粒音乐》：[尚硅谷的《谷粒音乐》(https://www.bilibili.com/video/BV1hs411E7NC?p=27&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
 
 ### 总结
 
@@ -49,12 +46,8 @@ javascript分为三部分组成：
 > JavaScript 是一种脚本，一门编程语言，它可以在网页上实现复杂的功能，网页展现给你的不再是简单的静态信息，而是实时的内容更新，交互式的地图，2D/3D 动画，滚动播放的视频等等。JavaScript 怎能缺席。它是标准 Web 技术蛋糕的第三层，其中 HTML 和 CSS 我们已经在学习中心的其他部分进行了详细的讲解。
 
 这是我在百度上找到对JavaScript的定义，那么多字？看的头疼？ok！通俗易懂的说就是，JavaScript的存在让我们可以把静态网站变成动态网站，可以让我们把静态数据直接动态的获得后端提供的接口或者是直接从云数据库中获得内容信息，还有可以帮我们做一些更多的特效，让我们使用更简单更方便！！！心动了吗？
-在这里我推荐想快速入门的小伙伴们，可以快看siki学院出的前端JavaScript视频教程：https://www.bilibili.com/video/BV1Zt411D78k?spm_id_from=333.999.0.0
-这个教程它把JavaScript的语法都大体的说了一遍，虽然不是很细节，但是对于想快速入门的小伙伴们学习是足够的，再配上一个前端特效实战篇：https://www.bilibili.com/video/BV1X3411t7XQ?spm_id_from=333.999.0.0&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-我相信它们一定可以帮你大幅度的提升前端制作特效的能力，别愣着了，快行动起来吧！！！
-当然，我相信有不少的小伙伴们想更深入的了解JavaScript的，肯定是想把JS学的更深更透彻，那怎么办呢？在这里我推荐大家可以看看黑马程序员提供的b站免费教学视频：https://www.bilibili.com/video/BV1Sy4y1C7ha?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-这个教程把JavaScript的绝大部分知识点都讲的很透彻包括dom也涉及到了。但是！！！但是！！！但是！！！重点来了，这个视频教程涉及到了jquery部分知识，这里不建议大家深入了解，知道jquery是什么东西就好了，虽然目前有类似于bootstrap这些前端样式还是用的是jquery，但是jquery目前并没有那么流行，小伙伴们学习肯定是学更多先进的知识。jquery虽然已经淘汰了，但是他的JavaScript源码还是非常不错滴，建议小伙伴们可以更深入的了解一下，他们的源码。由于jquery淘汰较为久远，我在这里并没有找到较好点的视频，不过大家可以看一下这个https://www.bilibili.com/video/BV1TJ41177i1?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-虽然出的时间很长，但是作为学习了解一下还是可以的。
+在这里我推荐想快速入门的小伙伴们，可以快看siki学院出的前端JavaScript视频教程：[siki学院前端JavaScript视频教程](https://www.bilibili.com/video/BV1Zt411D78k?spm_id_from=333.999.0.0)这个教程它把JavaScript的语法都大体的说了一遍，虽然不是很细节，但是对于想快速入门的小伙伴们学习是足够的，再配上一个前端特效实战篇：[JavaScript实战特效篇](https://www.bilibili.com/video/BV1X3411t7XQ?spm_id_from=333.999.0.0&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)我相信它们一定可以帮你大幅度的提升前端制作特效的能力，别愣着了，快行动起来吧！！！
+当然，我相信有不少的小伙伴们想更深入的了解JavaScript的，肯定是想把JS学的更深更透彻，那怎么办呢？在这里我推荐大家可以看看黑马程序员提供的b站免费教学视频：[黑马程序员JavaScript](https://www.bilibili.com/video/BV1Sy4y1C7ha?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)这个教程把JavaScript的绝大部分知识点都讲的很透彻包括dom也涉及到了。但是！！！但是！！！但是！！！重点来了，这个视频教程涉及到了jquery部分知识，这里不建议大家深入了解，知道jquery是什么东西就好了，虽然目前有类似于bootstrap这些前端样式还是用的是jquery，但是jquery目前并没有那么流行，小伙伴们学习肯定是学更多先进的知识。jquery虽然已经淘汰了，但是他的JavaScript源码还是非常不错滴，建议小伙伴们可以更深入的了解一下，他们的源码。由于jquery淘汰较为久远，我在这里并没有找到较好点的视频，不过大家可以看一下这个[jquery源码视频](https://www.bilibili.com/video/BV1TJ41177i1?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)虽然出的时间很长，但是作为学习了解一下还是可以的。
 
 ### DOM和BOM操作
 
@@ -65,14 +58,13 @@ BOM是浏览器对象模型
 DOM是文档对象模型
 DOM是针对XML的基于树的API。描述了处理网页内容的方法和接口，是HTML和XML的API，DOM把整个页面规划成由节点层级构成的文档。DOM本身是与语言无关的API，它并不与Java，JavaScript或其他语言绑定。
 可以理解为DOM是操作html里面的标签。
-我相信看到这里，各位小伙伴们肯定看懂了什么是DOM和BOM以及他们都有一个大体的认知吧！各位小伙伴在学习DOM和BOM，我推荐大家可以看看B站上黑马程序员提供的免费教程：https://www.bilibili.com/video/BV1k4411w7sV?spm_id_from=333.337.search-card.all.click
-这个教程里不仅介绍了如何操作DOM和BOM还介绍了一些常见的特效是怎么实现的，我觉得是一件各位小伙伴们值得深入学习的一件事情！
+我相信看到这里，各位小伙伴们肯定看懂了什么是DOM和BOM以及他们都有一个大体的认知吧！各位小伙伴在学习DOM和BOM，我推荐大家可以看看B站上黑马程序员提供的免费教程：[黑马程序员DOM和BOM](https://www.bilibili.com/video/BV1k4411w7sV?spm_id_from=333.337.search-card.all.click)这个教程里不仅介绍了如何操作DOM和BOM还介绍了一些常见的特效是怎么实现的，我觉得是一件各位小伙伴们值得深入学习的一件事情！
 
 ### es6+语法
 
 es6+的新特性是什么？为什么要了解？我相信很多小伙伴们都有很大的疑问，首先es6+是什么呢？ECMAScript 6（简称ES6）是于2015年6月正式发布的JavaScript语言的标准，正式名为ECMAScript 2015（ES2015）。它的目标是使得JavaScript语言可以用来编写复杂的大型应用程序，成为企业级开发语言。
 另外，一些情况下ES6+也泛指ES2015及之后的新增特性，虽然之后的版本应当称为ES7、ES8等。我们为什么要学es6而不是es5呢，现在很多公司应聘的要求就是必须要会es6的，es6已经普遍成为了行业标准。首先，ES5不能满足目前前端越来越复杂，庞大的现状，可以说已经过时了，ES6是对ES5的增强和升级。其次，主流的浏览器都已经全面支持ES6。并且行业内较新的前端框架都已经全面使用ES6的语法，甚至微信小程序,uni-app等都是基于ES6的语法。从就业出发，中小型公司，全栈，简历上多一个技能，试用期也能更快的上手。
-在这里我给大家推荐一下尚硅谷的这部分课程：https://www.bilibili.com/video/BV1uK411H7on?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53 这个课程涉及了绝大部分es6+的语法很适合各位学习和使用。
+在这里我给大家推荐一下尚硅谷的这部分课程：[尚硅谷es6+学习视频](https://www.bilibili.com/video/BV1uK411H7on?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)这个课程涉及了绝大部分es6+的语法很适合各位学习和使用。
 
 ### AJAX
 
@@ -84,9 +76,9 @@ es6+的新特性是什么？为什么要了解？我相信很多小伙伴们都�
 > 传统的网页（不使用 AJAX）如果需要更新内容，必需重载整个网页面。
 > 有很多使用 AJAX 的应用程序案例：新浪微博、Google 地图、开心网等等。
 
-这个是我在百度上为大家找到的解释，通俗的说，ajax就是请求动态数据的。我推荐大家看看B站的尚硅谷的视频：https://www.bilibili.com/video/BV1WC4y1b78y?p=9&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-在这一部分视频中涉及到了部分node后台框架的知识，先让各位小伙伴们学习学习了解一下。没有前端展示后端是没有用的，没有后端请求的接口前端也没有办法动态展示数据。如果小伙伴们不是过多的想了解后端技术，在想前端请求后端数据如果没有后端数据怎么写呢？这里有一些可以直接请求前端需要的api接口 ！推荐大家可以看看这篇文章，里面有很多的接口学习。https://cloud.tencent.com/developer/article/1983292
-学完以后，小伙伴们可以跟着这个视频做一些案例，来强化一下自己对ajax的这方面知识的学习和增强巩固。https://www.bilibili.com/video/BV17W41137jn?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
+这个是我在百度上为大家找到的解释，通俗的说，ajax就是请求动态数据的。我推荐大家看看B站的尚硅谷的视频：[尚硅谷ajax学习视频](https://www.bilibili.com/video/BV1WC4y1b78y?p=9&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
+在这一部分视频中涉及到了部分node后台框架的知识，先让各位小伙伴们学习学习了解一下。没有前端展示后端是没有用的，没有后端请求的接口前端也没有办法动态展示数据。如果小伙伴们不是过多的想了解后端技术，在想前端请求后端数据如果没有后端数据怎么写呢？这里有一些可以直接请求前端需要的api接口 ！推荐大家可以看看这篇文章，里面有很多的接口学习。[前端免费的api接口](https://cloud.tencent.com/developer/article/1983292)
+学完以后，小伙伴们可以跟着这个视频做一些案例，来强化一下自己对ajax的这方面知识的学习和增强巩固。[ajax项目实战案例](https://www.bilibili.com/video/BV17W41137jn?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a5)3
 
 ### typescript
 
@@ -100,8 +92,7 @@ typescript是什么？它和JavaScript有什么关系？我相信小伙伴们有
 实际上，一项研究表明，TypeScript可以检测到所有JavaScript错误的15％。
 动态类型的自由特性经常会导致错误，这些错误不仅会降低程序员的工作效率，而且还会由于增加新代码行的成本增加而使开发陷入停顿。
 因此，JavaScript无法合并类型以及编译时缺乏错误检查，使它不适合作为企业和大型代码库中服务器端代码。
-所以，你们说有必要学习吗？在这里我为大家推荐的学习视频首先是技术胖的typescript的快速入门：https://www.bilibili.com/video/BV1qV41167VD?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-这个视频把很多JavaScript和typescript不一样的点标明清楚，非常值得你们拥有。其次也可以看看尚硅谷的B站免费视频：https://www.bilibili.com/video/BV1Xy4y1v7S2?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53 后期很多项目实战的练习可以更好的为你巩固typescript的基础知识。
+所以，你们说有必要学习吗？在这里我为大家推荐的学习视频首先是技术胖的typescript的快速入门：[typescript快速入门](https://www.bilibili.com/video/BV1qV41167VD?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)这个视频把很多JavaScript和typescript不一样的点标明清楚，非常值得你们拥有。其次也可以看看尚硅谷的B站免费视频：[尚硅谷typescript](https://www.bilibili.com/video/BV1Xy4y1v7S2?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53) 后期很多项目实战的练习可以更好的为你巩固typescript的基础知识。
 
 ### 总结
 
@@ -115,7 +106,7 @@ typescript是什么？它和JavaScript有什么关系？我相信小伙伴们有
 
 ## Git的基本用法
 
-首先和各位小伙伴们即使一下git是什么，git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分布式版本库的方式，不必服务器端软件支持。在这里我推荐B站尚硅谷的git的视频教程：https://www.bilibili.com/video/BV1pW411A7a5?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53 这里讲的非常详细，大家可以放心观看。
+首先和各位小伙伴们即使一下git是什么，git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分布式版本库的方式，不必服务器端软件支持。在这里我推荐B站尚硅谷的git的视频教程：[尚硅谷git学习视频](https://www.bilibili.com/video/BV1pW411A7a5?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)这里讲的非常详细，大家可以放心观看。
 
 ## github和gitee平台管理
 
@@ -133,11 +124,11 @@ Gitee.com(码云) 是 OSCHINA.NET 推出的代码托管平台,支持 Git 和 SVN
 ## SASS
 
 Sass是什么呢？Sass 是一款强化 CSS 的辅助工具，它在 CSS 语法的基础上增加了变量 (variables)、嵌套 (nested rules)、混合 (mixins)、导入 (inline imports) 等高级功能，这些拓展令 CSS 更加强大与优雅。使用 Sass 以及 Sass 的样式库（如 Compass）有助于更好地组织管理样式文件，以及更高效地开发项目。
-我们为什么要选择sass呢？首先完全兼容 CSS3，其次在 CSS 基础上增加变量、嵌套 (nesting)、混合 (mixins) 等功能，并且通过函数进行颜色值与属性值的运算，还拥有提供控制指令 (control directives)等高级功能。话不多说我给大家上视频：https://www.bilibili.com/video/BV1Zg4y1v75U?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53 和https://www.bilibili.com/video/BV1Ci4y1d74K?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53 这两个视频讲解的非常详细。但是，如果有的小伙伴们像快速上手，我推荐大家可以看看这个视频，可以帮助小伙伴们快速了解css预处理语言https://www.bilibili.com/video/BV17W411w7nL?spm_id_from=333.337.search-card.all.click
+我们为什么要选择sass呢？首先完全兼容 CSS3，其次在 CSS 基础上增加变量、嵌套 (nesting)、混合 (mixins) 等功能，并且通过函数进行颜色值与属性值的运算，还拥有提供控制指令 (control directives)等高级功能。话不多说我给大家上视频：[SASS学习视频](https://www.bilibili.com/video/BV1Zg4y1v75U?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)和[SASS学习视频](https://www.bilibili.com/video/BV1Ci4y1d74K?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53) 这两个视频讲解的非常详细。但是，如果有的小伙伴们像快速上手，我推荐大家可以看看这个视频，可以帮助小伙伴们快速了解css预处理语言[SASS快速入门学习视频](https://www.bilibili.com/video/BV17W411w7nL?spm_id_from=333.337.search-card.all.click)
 
 ## LESS
 
-这里像小伙伴们解释一下Less是什么，Less 是一门 CSS 预处理语言，它扩充了 CSS 语言，增加了诸如变量、混合（mixin）、函数等功能，让 CSS 更易维护、方便制作主题、扩充。 Less 可以运行在 Node 或浏览器端。在这里我给大家推荐B站的这个视频：https://www.bilibili.com/video/BV13F411Y7ro?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53 个人觉得这个学习视频对于less的讲解是非常详细的。
+这里像小伙伴们解释一下Less是什么，Less 是一门 CSS 预处理语言，它扩充了 CSS 语言，增加了诸如变量、混合（mixin）、函数等功能，让 CSS 更易维护、方便制作主题、扩充。 Less 可以运行在 Node 或浏览器端。在这里我给大家推荐B站的这个视频：[LESS学习视频](https://www.bilibili.com/video/BV13F411Y7ro?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)个人觉得这个学习视频对于less的讲解是非常详细的。
 
 ## 总结
 
@@ -159,9 +150,7 @@ Bootstrap是一个用于快速开发Web应用程序和网站的前端框架，�
 
 4. 响应式设计：Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机。
 
-   在这里我推荐大家可以根据尚硅谷的B站免费视频进行学习：
-
-   https://www.bilibili.com/video/BV1YW411T7yy?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
+   在这里我推荐大家可以根据尚硅谷的B站免费视频进行学习：[尚硅谷Bootstrap](https://www.bilibili.com/video/BV1YW411T7yy?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
 
    ## echart.js
 
@@ -169,8 +158,8 @@ Bootstrap是一个用于快速开发Web应用程序和网站的前端框架，�
 
    > 从官网的解释我们可以知道echarts是商业级数据图表，是一个纯JavaScript的图标库，兼容绝大部分的浏览器，底层依赖轻量级的canvas类库ZRender，提供直观，生动，可交互，可高度个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力。
 
-这是官方文档的解释，其实通俗的说echarts就是数据可视化的库。在这里我不是很推荐大家去看视频，因为我觉得官网的已经说的非常详细了，所以如果各位小伙伴们想了解的话可以看看官网：https://echarts.apache.org/handbook/zh/get-started/
-当然，如果还是有想看视频学习的小伙伴们可以看看黑马的这个视频讲解的还是很不错的https://www.bilibili.com/video/BV1Uz4y1S7kr?spm_id_from=333.337.search-card.all.click
+这是官方文档的解释，其实通俗的说echarts就是数据可视化的库。在这里我不是很推荐大家去看视频，因为我觉得官网的已经说的非常详细了，所以如果各位小伙伴们想了解的话可以看看官网：[echart.js官网](https://echarts.apache.org/handbook/zh/get-started/)
+当然，如果还是有想看视频学习的小伙伴们可以看看黑马的这个视频讲解的还是很不错的[黑马echart.js学习视频](https://www.bilibili.com/video/BV1Uz4y1S7kr?spm_id_from=333.337.search-card.all.click)
 但是还是希望小伙伴们可以看看官网自学，毕竟身为程序员会看文档的能力是非常重要的，而且文档永远讲解的都是非常细致的。
 
 ## layui
@@ -179,15 +168,15 @@ Bootstrap是一个用于快速开发Web应用程序和网站的前端框架，�
 > 事实上，layui 更多是面向于后端开发者，所以在组织形式上毅然采用了几年前的以浏览器为宿主的类 AMD 模块管理方式，却又并非受限于 CommonJS 的那些条条框框，它拥有自己的模式，更加轻量和简单。layui 定义为“经典模块化”，并非是刻意强调“模块”理念本身，而是有意避开当下 JS 社区的主流方案，试图以尽可能简单的方式去诠释高效。它的所谓经典，是在于对返璞归真的执念，它以当前浏览器普通认可的方式去组织模块。 layui 认为这种轻量的组织方式，仍然可以填补 WebPack 以外的许多场景。所以它坚持采用经典模块化，也正是能让人避开工具的复杂配置，重新回归到原生态的 HTML/CSS/JavaScript本身。
 
 总的来说就是layui也是一种前端样式框架，它比较偏向于后端开发人员更容易接受的前端样式框架，回归开发本身技术。
-在这里我给大家推荐B站的这个关于layui的免费视频：https://www.bilibili.com/video/BV1sJ411u7VS?spm_id_from=333.337.search-card.all.click
-大家在学习的过程中可以根据layui官网进行学习观看：https://www.layuiweb.com/
+在这里我给大家推荐B站的这个关于layui的免费视频：[layui学习视频](https://www.bilibili.com/video/BV1sJ411u7VS?spm_id_from=333.337.search-card.all.click)
+大家在学习的过程中可以根据layui官网进行学习观看：[layui官网](https://www.layuiweb.com/)
 
 ## three.js
 
 > Three.js 是一款运行在浏览器中的 3D 引擎，你可以用它创建各种三维场景，包括了摄影机、光影、材质等各种对象。Three.js（类似于JQuery）在浏览器提供的 WebGL 接口之上又做了一层封装。WebGL 是在浏览器中实现三维效果的一套标准。WebGL 可以为 HTML5 Canvas 提供硬件 3D 加速渲染，这样 Web 前端开发人员就可以借助系统显卡来在浏览器里更流畅地展示3D场景和模型了，还能创建复杂的导航和数据视觉化。
 
-three.js也就是所谓的类似于实现前端VR的一种框架，这里不做强制性的学习，因为像three.js这样的需要3D建模的框架一般公司是有专门人负责的，而且一般面试前端很少几乎不会问这样的问题，因为像这样3D建模是比较消耗浏览器性能的，所以各位小伙伴们只需要了解即可。https://www.bilibili.com/video/BV1Gg411X7FY?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
-如果对这比较感兴趣的小伙伴们可以去专门学习3D Web 图形。当然这里还有一个推荐与vue3.0有关的实战项目，小伙伴们也可以尝试做一下，或等到后期学到vue后在会过来尝试一下：https://www.bilibili.com/video/BV15T4y1175F?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
+three.js也就是所谓的类似于实现前端VR的一种框架，这里不做强制性的学习，因为像three.js这样的需要3D建模的框架一般公司是有专门人负责的，而且一般面试前端很少几乎不会问这样的问题，因为像这样3D建模是比较消耗浏览器性能的，所以各位小伙伴们只需要了解即可。[three.js学习视频](https://www.bilibili.com/video/BV1Gg411X7FY?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
+如果对这比较感兴趣的小伙伴们可以去专门学习3D Web 图形。当然这里还有一个推荐与vue3.0有关的实战项目，小伙伴们也可以尝试做一下，或等到后期学到vue后在会过来尝试一下：[3D Web+vue项目实战](https://www.bilibili.com/video/BV15T4y1175F?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
 
 # 总结
 
@@ -201,15 +190,14 @@ three.js也就是所谓的类似于实现前端VR的一种框架，这里不做�
 如果我们引用的a.js，它同时依赖于b.js和c.js，那我们在下载a.js的同时，也要下载b.js和c.js文件，并且在文件里它们的引用顺序也有讲究，如果顺序不对，就会出现各种问题。
 第三方JS工具库会经常更新迭代，作为开发者的我们，就要经常关注第三方库的动态，如果有更新，就需要将文件重新下载下来，替换原来项目中的文件。
 这些问题被发现后，一批具有开拓精神的程序员提出了新的想法和思路，于是就出现了包管理工具，彻底终结了以上的问题。
-大家可以看看掘金的这篇文章可以学习一下：https://juejin.cn/post/7049528035216736293
+大家可以看看掘金的这篇文章可以学习一下：[包管理工具](https://juejin.cn/post/7049528035216736293)
 
 ## npm
 
 npm是Node.js官方提供的，它的出现同时也制定了一些包管理规范：
 所有的第三方依赖包都放在node_modules这个文件目录下，我们在增加，删除，升级依赖也只是更新这个文件下的相关依赖包。
-package.json文件中存放本项目及项目的依赖和版本信息，这样我们就可以知道本项目用到什么，都是什么版本，不用多处寻找，如下图所示：
-0![<img src=](http://www.emoji-cheat-sheet.com/graphics/emojis/0.png)">0.awebp”>](http://www.emoji-cheat-sheet.com/graphics/emojis/3024.png)0![![:0:](http://www.emoji-cheat-sheet.com/graphics/emojis/0.png)](http://www.emoji-cheat-sheet.com/graphics/emojis/0.png)0.awebp">https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4714fd08bbe64b4c8246fe0a912cb6c3~tplv-k3u1fbpfcp-zoom-in-crop-mark![![:3024:](http://www.emoji-cheat-sheet.com/graphics/emojis/3024.png)](http://www.emoji-cheat-sheet.com/graphics/emojis/3024.png)0![![:0:](http://www.emoji-cheat-sheet.com/graphics/emojis/0.png)](http://www.emoji-cheat-sheet.com/graphics/emojis/0.png)0.awebp
-话不多说上视频：https://www.bilibili.com/video/BV1Dv411W7XP?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53
+package.json文件中存放本项目及项目的依赖和版本信息，这样我们就可以知道本项目用到什么，都是什么版本，不用多处寻找。
+话不多说上视频：[npm](https://www.bilibili.com/video/BV1Dv411W7XP?vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
 
 ## yarn
 
@@ -218,11 +206,40 @@ yarn是Facebook发布的作为项目的包管理工具，快速、安全、可�
 安全：在执行代码之前，Yarn会通过算法校验每个安装包的完整性。
 可靠：使用详细简洁的锁文件格式和明确的安装算法，使Yarn能够在不同系统上保证无差异的工作
 我们既然有npm为什么还要yarn呢？
-首先对比npm安装依赖的速度，yarn可以说是完全碾压
-其次关于错误提示，yarn做的更加人性化，使用npm，如果安装依赖时发生错误，npm会继续打印之后的安装日志，开发者很难注意到到底哪里安装报错
+首先对比npm安装依赖的速度，yarn可以说是完全碾压。
+其次关于错误提示，yarn做的更加人性化，使用npm，如果安装依赖时发生错误，npm会继续打印之后的安装日志，开发者很难注意到到底哪里安装报错。
 所以相比npm我们也要会使用yarn来学习的。
-关于yarn的学习B站没有太多学习好的学习视频，在这里我给大家推荐一个关于yarn的知识文档https://juejin.cn/post/7049528035216736293 大家可以看看这个进行学习和整理。
+关于yarn的学习B站没有太多学习好的学习视频，在这里我给大家推荐一个关于yarn的知识文档[yarn知识文档](https://juejin.cn/post/7049528035216736293) 大家可以看看这个进行学习和整理。
 
 ## 总结
 
 学会了包管理工具我们就可以不需要再关注第三方JS工具库会经常更新迭代的问题，作为开发者的我们，也就不需要经常关注第三方库的动态，甚至来说如果更新了，也需要将文件重新下载下来，替换原来项目中的文件，让我们彻底解放双手，更加关注于如何写代码。有了这个基础我们就可以来到第七阶段前端框架知识的学习，实现主流的模块化开发了。
+
+# 第七阶段
+
+第七阶段的学习主要是与打包工具和构建工具的使用，以及新的前端黑科技渐进式 Web 应用，学会了这些工具可以快速帮我们创建和打包项目。在这里我为小伙伴们推荐两个打包工具和一个渐进式框架，帮助小伙伴们更快的进入正轨。
+
+## PWA
+
+首先我想小伙伴们解释一下什么是渐进式 Web 应用，指的是使用指定技术和标准模式来开发的 Web 应用，这同时赋予它们 Web 应用和原生应用的特性。
+例如一方面，Web 应用更加易于发现：相比于安装应用，访问一个网站显然更加容易和迅速。你还可以通过链接来分享 Web 应用。另一方面，原生应用与操作系统可以更加完美的整合，也因此为用户提供了无缝的用户体验。你可以通过安装应用使得它在离线的状态下也可以运行；相较于使用浏览器访问，用户也更喜欢通过点击主页上的图标来访问它们喜爱的应用。
+PWA 赋予了我们创建同时拥有以上两种优势的应用的能力。
+纵观现有 Web 应用与原生应用的对比差距，如离线缓存、沉浸式体验等等，可以通过已经实现的 Web 技术去弥补这些差距，最终达到与原生应用相近的用户体验效果。
+在这里我为各位小伙伴们推荐这个视频进行学习：[黑马程序员PWA](https://www.bilibili.com/video/BV1wt411E7QD?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53) 该课程是黑马程序员出的视频，它把pwa特性以及用法介绍的非常详细，当然在这里我希望各位小伙伴们在观看的是可以配上官方文档一起查看，毕竟任何教学视频出的再好也没有文档详细，话不多说，上文档：[PWA文档](https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps)
+
+## 打包工具
+
+学完了渐进式Web应用框架后，我们就需要学打包工具了，再这里提供了两个打包工具供大家选择。建议小伙伴们最好都看一下，毕竟webpack虽然不是最新技术，但是它依然好用，像我们熟知的Vue2.0脚手架就是基于webpack开发出来的产物，毕竟强大的工具出了很久，一时间肯定撼动不了它的地位。至于Vite，它采用的热更新技术是非常厉害的，像我们正常写完页面后用webpack加载需要很久，但是vite采用的热更新就比webpack快很多。vite的热更新通俗的说就是相当于是先把我们需要的页面加载出来，不需要用到或者没有更改的信息就放到后台继续加载。这里我给大家推荐一个文章，大家可以去看看了解一下热更新。[vite热更新](https://cloud.tencent.com/developer/article/2050505)
+
+### Webpack
+
+Webpack主要是打包，所以其核心存在两个部分，入口和出口，你可以把webpack加工想象成香肠加工厂，就是活猪进去，香肠出来的那种，但是如果每次加工都需要员工亲力亲为，那多麻烦那，所以我们考虑到了自动化配置。webpack存在功能类似的配置文件，让webpack通过配置，全自动的执行我们需要的编译操作。
+webpack分成四个部分，期中最核心的就是入口和出口，当然在入口和出口配置的同时我们还需要一些加载器和插件，这就是我们所谓的webpack配置文件。这个配置文件我们习惯把其命名为webpack.config.js ，还有webpackfile.js 。
+这里我推荐尚硅谷和千峰两个培训机构出的视频都很好，大家可以根据个人喜欢选择一下[尚硅谷webpack](https://www.bilibili.com/video/BV1YU4y1g745?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
+
+[千峰webpack](https://www.bilibili.com/video/BV14T4y1z7sw?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
+
+### Vite
+
+Vite是vue创世人开发的一种新型的前端构建工具，它能显著改善前端开发体验。 Vite作为一个基于浏览器原生ESM的构建工具，它省略了开发环境的打包过程，利用浏览器去解析imports，在服务端按需编译返回。 同时，在开发环境拥有速度快到惊人的模块热更新，且热更新的速度不会随着模块增多而变慢。向我们熟知的vue3.0就是基于vite打包的。
+关于学习视频我觉得千锋陆荣涛出的关于vite的视频就很好，大家可以看一下。[vite](https://www.bilibili.com/video/BV1BS4y1P7mU?spm_id_from=333.337.search-card.all.click&vd_source=2853dc67c3ff3c0f69b8c1211c1f0a53)
