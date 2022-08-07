@@ -6,7 +6,7 @@
 
 ## 前端学习路线综合
 
-![学习路线](http://assets.processon.com/chart_image/62d52aa00e3e746072770967.png)
+![学习路线](https://github.com/jlgulu/JavaFullStackPath-GoodNight/blob/main/前端学习路线-导出.png)
 
 随着互联网的深入发展，前端开发工程师一跃成为市场上非常抢手的人才。很多同学，包括以前做UI的、Java的、或者对于IT完全零基础的同学都想学习前端。下图是网上流传甚广的一张前端学习思维导图，很多初学者表示看到这些密密麻麻的知识点就已经晕了。确实，前端是一门涵盖面很广的学科。但是想学前端的你也不用慌张，内容虽多但有迹可循，只要循序渐进就不怕学不好前端！
 
@@ -938,6 +938,8 @@ React Native电商项目实战：[React Native电商项目实战](https://www.bi
 本文从三个维度切入了在 2022 年作为一名前端工程师需要学习的内容，以及给出了详细的学习路线图和对应的学习资源，当然有些资源都是国外的，需要自备科学上网工具，后续会基于这条学习路线图进行完善，并且补充详细的中文学习资源，敬请期待。
 
 ## Java后端开发学习路线
+
+![学习路线](https://github.com/jlgulu/JavaFullStackPath-GoodNight/blob/main/Java后端学习路线-导出.png)
 
 ### 第一阶段：Java语言入门
 
